@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Syria Care Login</title>
+	<title>Syria Care Register</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
@@ -44,46 +44,48 @@
 					</div> -->
 
 					<span class="login100-form-title p-b-49">
-						Sign In
+						Sign Up
 					</span>
 
 					<div class="wrap-input100 validate-input m-b-23" data-validate = "Username is required">
 						<span class="label-input100">Username</span>
 						<input class="input100" type="text" name="username" placeholder="Type your username">
 						<span class="focus-input100" data-symbol="&#xf206;"></span>
+                    </div>
+                    
+                    <div class="wrap-input100 validate-input m-b-23" data-validate = "Email is required">
+						<span class="label-input100">Email</span>
+						<input class="input100" type="text" name="email" placeholder="Type your email">
+						<span class="focus-input100" data-symbol="&#xf0c9;"></span>
 					</div>
 
-					<div class="wrap-input100 validate-input" data-validate="Password is required">
+					<div class="wrap-input100 validate-input m-b-23" data-validate="Password is required">
 						<span class="label-input100">Password</span>
 						<input class="input100" type="password" name="password" placeholder="Type your password">
 						<span class="focus-input100" data-symbol="&#xf190;"></span>
+                    </div>
+                    
+                    <div class="wrap-input100 validate-input m-b-23" data-validate="Password is required">
+						<span class="label-input100">Repeat Password</span>
+						<input class="input100" type="password" name="password" placeholder="Retype your password">
+						<span class="focus-input100" data-symbol="&#xf190;"></span>
 					</div>
-				
-					<div class="text-right p-t-8 p-b-31">
-						<a href="#">
-							Do not have account? Click <a href="register_user.php" style="text-decoration:underline">Register now! </a> 
-						</a>
-						<hr>
-						<a href="#">
-							Forgot password?
-						</a>
-					</div>
+					
+					<div class="form-group">
+                        <input type="checkbox" name="agree-term" id="agree-term" class="agree-term" />
+                        <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree all statements in  <a href="#" class="term-service">terms of service</a></label>
+                    </div>
 					
 					<div class="container-login100-form-btn">
 						<div class="wrap-login100-form-btn">
 							<div class="login100-form-bgbtn"></div>
 							<button type="submit" class="login100-form-btn">Login</button>
 						</div>
-						<hr>
-						<div class="wrap-login100-form-btn">
-							<div class="login100-form-bgbtn"></div>
-							<button type="submit" class="login100-form-btn btn btn-info">Back to Homepage</button>
-						</div>
 					</div>
 
 					<div class=" p-t-31 p-b-8 text-center">
-						<a href="register.php">
-							Create an account
+						<a href="login.php">
+							Already had an account
 						</a>
 					</div>
 

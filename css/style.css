@@ -579,7 +579,7 @@ video {
 	padding:5px 10px;
 }
 #projects-sec a:hover{
-	color:#ec1d25;
+	color:#04A34A;
 	background:#fff;
 }
 #projects-sec .top-off{
@@ -677,8 +677,8 @@ video {
 	opacity:0;
 }
 #gallery-sec ul li .image:hover .overlay{
-	background:rgba(236, 29, 37, 0.8);
-	opacity:1;
+	background:#04A34A;
+	opacity:0.7;
 }
 #gallery-sec ul li .image .overlay i{ color:#fff; font-size:50px; margin:24% 0;
 }
@@ -823,11 +823,11 @@ video {
 	display:block;
 }
 #team h1 {
-    color: #ec1d25;
+    color: #04A34A;
 }
 #team hr {
     width: 150px;
-    border: 2px solid #2f3191;
+    border: 2px solid #04A34A;
 }
 #team .member {
     margin-top: 30px;
@@ -852,7 +852,7 @@ video {
 #help{
 	display:block;
 	width:100%;
-	background: url(../images/act-bg.jpg);
+	background: url(../images/Begging.jpg);
 	background-size:cover;
 	background-attachment:fixed;
 	background-position:center;
@@ -881,7 +881,7 @@ video {
     border-radius: 100%;
     line-height: 115px;
     text-align: center;
-    color: #ec1d25;
+	color: #04A34A;
     position: relative;
 	float:left;
     transition: all 0.5s;
@@ -907,7 +907,7 @@ video {
     position: absolute;
     width: 90px;
     height: 90px;
-    border: 1px solid #ec1d25;
+    border: 1px solid #04A34A;
     background: transparent;
     border-radius: 100%;
     top: 50%;
@@ -936,18 +936,18 @@ video {
     border-bottom: 2px dashed #d5d4d4;
     padding-bottom: 15px;
     margin-bottom: 20px;
-    color: #ec1d25;
+    color: #04A34A;
 	text-transform:uppercase;
 }
 .act-box .price {
     margin: 20px 0px 0px;
-    color: #2f3191;
+    color: #4e4f53;
     float: left;
 	font-weight:600;
 	font-size: 18px;
 }
 .act-box .goal {
-    color: #ec1d25;
+    color: #04A34A;
     margin-left: 10px;
 }
 .act-box .btn1 {
@@ -978,7 +978,7 @@ video {
 #pro-sec h3 {
     font-size: 22px;
     text-transform: uppercase;
-    color: #ec1d25;
+    color: #04A34A;
     margin: 10px 0 0 0;
     line-height: 26px;
 }
@@ -989,14 +989,14 @@ video {
 }
 #pro-sec .post-content hr {
     width: 100px;
-    border: 2px solid #2f3191;
+    border: 2px solid #04A34A;
     margin: 10px auto;
 }
 #pro-sec p {
     margin: 10px 0 0 0;
 }
 #pro-sec a {
-	background:#ec1d25;
+	background:#04A34A;
     border-radius: 3px;
     color: #fff;
     display: inline-block;
@@ -1006,7 +1006,7 @@ video {
 	text-transform:uppercase;
 }
 #pro-sec a:hover {
-    background-color: #2f3191;
+    background-color: #4e4f53;
     color: #fff;
 }
 
@@ -1026,7 +1026,7 @@ video {
 .con-box {
     color: #fff;
     padding:50px 0;
-    background-color: #ec1d25;
+    background-color: #04A34A;
     -webkit-transition: all 0.4s ease 0s;
     -khtml-transition: all 0.4s ease 0s;
     -moz-transition: all 0.4s ease 0s;

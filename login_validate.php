@@ -7,8 +7,8 @@
 
         //print($username . " - " . $password);
 
-        $_SESSION['user_name'] = $username;
-        $_SESSION['user_id'] = $password;
+        $_SESSION['username'] = $username;
+        $_SESSION['userid'] = $password;
 
         header("Location: index.php"); 
 

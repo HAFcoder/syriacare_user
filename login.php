@@ -54,8 +54,12 @@
 						<input class="input100" type="password" name="password" placeholder="Type your password">
 						<span class="focus-input100" data-symbol="&#xf190;"></span>
 					</div>
-					
+				
 					<div class="text-right p-t-8 p-b-31">
+						<a href="#">
+							Do not have account? Click <a href="register_user.php" style="text-decoration:underline">Register now! </a> 
+						</a>
+						<hr>
 						<a href="#">
 							Forgot password?
 						</a>
@@ -65,6 +69,11 @@
 						<div class="wrap-login100-form-btn">
 							<div class="login100-form-bgbtn"></div>
 							<button type="submit" class="login100-form-btn">Login</button>
+						</div>
+						<hr>
+						<div class="wrap-login100-form-btn">
+							<div class="login100-form-bgbtn"></div>
+							<button type="submit" class="login100-form-btn btn btn-info">Back to Homepage</button>
 						</div>
 					</div>
 

@@ -61,7 +61,7 @@
 				
 					<div class="text-right p-t-8 p-b-31">
 						<a href="#">
-							Do not have account? Click <a href="register_user.php" style="text-decoration:underline">Register now! </a> 
+							Do not have account? Click <a href="register.php" style="text-decoration:underline">Register now! </a> 
 						</a>
 						<hr>
 						<a href="#">
@@ -77,7 +77,7 @@
 						<hr>
 						<div class="wrap-login100-form-btn">
 							<div class="login100-form-bgbtn"></div>
-							<button type="submit" class="login100-form-btn btn btn-info">Back to Homepage</button>
+							<a href="index.php" class="login100-form-btn btn btn-info">Back to Homepage</a>
 						</div>
 					</div>
 

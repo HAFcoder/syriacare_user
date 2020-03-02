@@ -17,7 +17,7 @@
                     
                     <?php
 
-                        if($login=="yes"){
+                        if(isset($_SESSION['username']) && isset($_SESSION['userid']) && ($_SESSION['username']!="")){
                             echo '<a class="youtube text-danger" href="logout.php" title="Logout" rel="nofollow">Logout</a>';
                         }else{
                             echo '<a class="youtube text-danger" href="login.php" title="Login" rel="nofollow">Login</a>';   

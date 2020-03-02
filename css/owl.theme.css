@@ -16,7 +16,7 @@
 	padding: 3px 10px;
 	font-size: 12px;
 	border-radius:2px;
-	background: #ec1d25;
+	background: #04A34A;
 	opacity:1;
 }
 /* Clickable class fix problem with hover on touch devices */
@@ -40,7 +40,7 @@
 	-webkit-border-radius: 20px;
 	-moz-border-radius: 20px;
 	border-radius: 20px;
-	background: #ec1d25;
+	background: #04A34A;
 }
 
 .owl-controlls .owl-page.active span,

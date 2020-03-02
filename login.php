@@ -87,6 +87,12 @@
 						</a>
 					</div>
 
+					<div class=" p-t-31 p-b-8 text-center">
+						<a href="register.php">
+							Create an account
+						</a>
+					</div>
+
 				</form>
 			</div>
 		</div>

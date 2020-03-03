@@ -39,7 +39,7 @@
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 					<i class="fa fa-bars"></i>
 					</button>
-					<a class="navbar-brand logo" href="index.html"><img src="images/logos.png" class="img-responsive" /></a>
+					<a class="navbar-brand logo" href="index.html"><img src="images/logo.png" width="90rem" class="img-responsive" /></a>
 				</div>
 				<div class="collapse navbar-collapse" id="navbar-menu">
 					<ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">

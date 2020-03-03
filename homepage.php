@@ -367,7 +367,7 @@
 								<h4 class="footer-section-title">Contact Us</h4><!-- /.footer-section-title -->
 							
 								<div class="footer-section-body">
-									<p><b>Address:</b> 3104 Doctors Drive, Los Angeles, California, United States</p>
+									<p><b>Address:</b> No 43, Jalan Bola Jaring 13/15, Seksyen 13, 40100 Shah Alam, Selangor</p>
 								
 									<div class="footer-contacts">
 										<p>
@@ -375,7 +375,7 @@
 												<i class="fa fa-phone"></i> Phone:
 											</b>
 										
-											+1-310-341-3870
+											+603 5523 4077
 										</p>
 									
 										<p>
@@ -383,7 +383,7 @@
 												<i class="fa fa-envelope-o"></i> Email:
 											</b>
 										
-											info@charityhope.com
+											souriacare@gmail.com
 										</p>
 									</div><!-- /.footer-contacts -->
 								</div><!-- /.footer-section-body -->

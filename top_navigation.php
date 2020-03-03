@@ -17,9 +17,9 @@
                     
                     <?php
 
-                        if(isset($_SESSION['username']) && isset($_SESSION['userid']) && ($_SESSION['username']!="")){
-                            echo '<a class="youtube text-danger" href="logout.php" title="Logout" rel="nofollow">Logout</a>';
-                        }else{
+                        if($login=="yes"){
+                            echo '<a class="facebook text-danger" style="font-size:13px" href="logout.php" title="Logout" rel="nofollow">Logout</a>';
+                        }else if($login=="no"){
                             echo '<a class="youtube text-danger" href="login.php" title="Login" rel="nofollow">Login</a>';   
                         }
                         
@@ -32,8 +32,18 @@
 		<div class="container">
 			<div class="row"> 
 				<div class="attr-nav">
-					<a class="sponsor-button" href="sponsor-a-child.html">Charity Shop</a>
-					<a class="donation" href="donate.html">donate now</a>
+                    <a class="donation" href="donate.html">donate now</a>
+                    <i class="fa fa-user-circle" aria-hidden="true"></i>
+                    <?php
+
+                        if($login=="yes"){
+                            echo '<a class="sponsor-button" href="sponsor-a-child.html"><i class="fa fa-user"></i> My Profile</a>';
+                        }else if($login=="no"){
+                              
+                        }
+                        
+                    ?>
+					
 				</div>           
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">

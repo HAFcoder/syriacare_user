@@ -5,4 +5,5 @@
 	<script src="js/bootsnav.js"></script>
 	<script src="js/banner.js"></script>  
 	<script src="js/jquery.swipebox.js"></script>
-	<script src="js/script.js"></script>
+    <script src="js/script.js"></script>
+    

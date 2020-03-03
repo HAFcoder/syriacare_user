@@ -32,14 +32,15 @@
 		<div class="container">
 			<div class="row"> 
 				<div class="attr-nav">
-                    <a class="donation" href="donate.html">donate now</a>
                     <i class="fa fa-user-circle" aria-hidden="true"></i>
+                    
                     <?php
 
                         if($login=="yes"){
-                            echo '<a class="sponsor-button" href="sponsor-a-child.html"><i class="fa fa-user"></i> My Profile</a>';
+                            echo '<a class="donation" href="index.php?syc=2">my donation</a>';
+                            echo '<a class="sponsor-button" href="index.php?syc=1"><i class="fa fa-user"></i> My Profile</a>';
                         }else if($login=="no"){
-                              
+                            echo '<a class="donation" href="donate.html">donate now</a>';
                         }
                         
                     ?>
@@ -53,7 +54,7 @@
 				</div>
 				<div class="collapse navbar-collapse" id="navbar-menu">
 					<ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
-						<li><a href="index.html">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 						<li><a href="about-us.html">About Us</a></li>
 						<li><a href="activities.html">Activities</a></li>
 						<li><a href="projects.html">Projects</a></li>

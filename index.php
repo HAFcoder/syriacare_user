@@ -45,7 +45,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 					switch ($menu) {
 						case 1:
-							$filepage = "homepage.php";
+							$filepage = "user/userprofile.php";
+							break;
+						case 2:
+							$filepage = "donate/history_donation.php";
 							break;
 						
 						default:

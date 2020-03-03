@@ -167,7 +167,7 @@
 						<div class="col-md-4 clearfix top-off">
 							<div class="grid-image"><img src="images/test1.jpg"></div>
 							<div class="post-content">
-								<h3>Nepal Earthquake: Clean Water Initiative</h3>
+								<h3>Syria Earthquake: Clean Water Initiative</h3>
 								<hr>
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 								<a href="projects.html" title="" >View Project</a>
@@ -176,7 +176,7 @@
 						<div class="col-md-4 clearfix top-off">
 							<div class="grid-image"><img src="images/test2.jpg"></div>
 							<div class="post-content">
-								<h3>Nepal Earthquake: Clean Water Initiative</h3>
+								<h3>Syria Earthquake: Clean Water Initiative</h3>
 								<hr>
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 								<a href="projects.html" title="" >View Project</a>
@@ -185,7 +185,7 @@
 						<div class="col-md-4 clearfix top-off">
 							<div class="grid-image"><img src="images/test3.jpg"></div>
 							<div class="post-content">
-								<h3>Nepal Earthquake: Clean Water Initiative</h3>
+								<h3>Syria Earthquake: Clean Water Initiative</h3>
 								<hr>
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 								<a href="projects.html" title="" >View Project</a>
